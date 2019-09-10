@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GazouilliTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-09T22:33:57" hostname="OCTO-SRE" time="0.003">
+  <properties/>
+  <testcase name="should_set_the_correct_message" classname="GazouilliTest" time="0.002"/>
+  <testcase name="should_pass_when_message_is_4_characters_long" classname="GazouilliTest" time="0.0"/>
+  <testcase name="should_throw_an_error_when_message_is_shorter_than_3_characters" classname="GazouilliTest" time="0.001"/>
+  <testcase name="should_have_statut_draft_by_default" classname="GazouilliTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
